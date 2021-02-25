@@ -3,18 +3,6 @@
 #  Description: Nesting boxes. Calculate max number of nesting boxes that fit
 #  and the number of such sets of nesting boxes.
 
-#  Student Name: Mehmet Yavuz Zenginerler
-
-#  Student UT EID: myz225
-
-#  Partner Name: Pedro Naranjo Caraza
-
-#  Partner UT EID: pn4996
-
-#  Course Name: CS 313E
-
-#  Unique Number: 50850, 50845
-
 #  Date Created: 10/13/2020
 
 #  Date Last Modified: 10/13/2020
